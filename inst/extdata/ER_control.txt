@@ -1,0 +1,4 @@
+d1.csv	d2.csv	1:1
+d2.csv	d4.csv	n:m
+d1.csv	d3.csv	1:n
+d3.csv	d5.csv	n:1
