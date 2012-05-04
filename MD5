@@ -1,0 +1,12 @@
+b309dfff6f5df1c084db1c2886ccb7de *DESCRIPTION
+7a19fee4c642dcdee75ed9e371a6043e *NAMESPACE
+d2d8c86a31457fe2df7cc1aded52f890 *R/CityPlot.R
+953972544d9f98f0034576adbbec76be *inst/extdata/ER_control.txt
+437838b875edc40dfc194b59d969d5eb *inst/extdata/ER_control.txt.pdf
+95934277c69a63e126b847622ed37506 *inst/extdata/d1.csv
+40b72ea93d357e299a7fea892af60781 *inst/extdata/d2.csv
+065430710d5e8c7b4c5a665763e03454 *inst/extdata/d3.csv
+a929c6a9e2b3428e747602e01254eeaa *inst/extdata/d4.csv
+f4d8795cbb9c278d21d082136cc7cb05 *inst/extdata/d5.csv
+36d9e122920d008624eb5ad0da98a2e1 *man/CityPlot-package.Rd
+76dec3f4c1c6cead97264f77b813507c *man/CityPlot.Rd

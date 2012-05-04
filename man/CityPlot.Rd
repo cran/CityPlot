@@ -16,7 +16,7 @@ White spots correspond to missing data.\cr\cr
    Input:  A csv-file for each database table and a controlfile describing relations between tables (see examples)\cr
    Output: An extended ER diagram
 }
-\usage{ CityPlot(controlfile = "", pdfmode = "") }
+\usage{ CityPlot(controlfile = "", pdfmode = "",shownames=T) }
 \arguments{
   \item{controlfile}{
    File name of controlfile describing database tables and their relations.\cr
@@ -24,6 +24,9 @@ White spots correspond to missing data.\cr\cr
   }
   \item{pdfmode}{
    value "y" or "Y": graphical output as pdf-file
+  }
+  \item{shownames}{
+   value T or F: display names of entities
   }
 }
 \references{
